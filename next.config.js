@@ -1,16 +1,14 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  images: {
-    domains: ['localhost'],
-  },
+  swcMinify: true,
   compiler: {
     removeConsole: process.env.NODE_ENV === 'production',
   },
   experimental: {
     optimizeCss: true,
-    optimizePackageImports: ['@heroicons/react'],
   },
+  output: 'standalone',
 }
 
 module.exports = nextConfig 
