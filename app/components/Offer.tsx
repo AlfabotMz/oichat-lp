@@ -95,10 +95,9 @@ export function Offer() {
           </div>
           
           <div className="mt-12 text-center">
-            <button className="bg-gradient-to-r from-accent-purple to-accent-blue text-white px-8 py-4 rounded-full text-lg font-semibold hover:opacity-90 transition-opacity shadow-lg shadow-accent-purple/20">
+            <button className="bg-gradient-to-r from-accent-purple to-accent-blue text-white px-6 py-3 rounded-full text-base font-semibold hover:opacity-90 transition-opacity shadow-lg shadow-accent-purple/20">
               Quero Demonstração Grátis
             </button>
-            <p className="mt-4 text-gray-400 text-sm">Teste grátis por 7 dias. Não é necessário cartão de crédito.</p>
           </div>
         </div>
       </div>
