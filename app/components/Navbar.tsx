@@ -22,7 +22,7 @@ export function Navbar() {
               Benefícios
             </a>
             <a 
-              href="https://sour-spring-78c.notion.site/1ce921d51ee48032ba4de677ebc28cec?pvs=105"
+              href="https://oichatform.alfabot.icu"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-gradient-to-r from-accent-purple to-accent-blue text-white px-6 py-2.5 rounded-full text-sm font-medium hover:opacity-90 transition-opacity shadow-lg shadow-accent-purple/20"
@@ -70,7 +70,7 @@ export function Navbar() {
             </a>
             <div className="px-3 py-3">
               <a 
-                href="https://sour-spring-78c.notion.site/1ce921d51ee48032ba4de677ebc28cec?pvs=105"
+                href="https://oichatform.alfabot.icu"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block w-full bg-gradient-to-r from-accent-purple to-accent-blue text-white px-6 py-3 rounded-full text-base font-medium hover:opacity-90 transition-opacity shadow-lg shadow-accent-purple/20 text-center"

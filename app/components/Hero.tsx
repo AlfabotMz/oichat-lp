@@ -52,7 +52,7 @@ export function Hero() {
             Instale uma atendente no WhatsApp e deixe que ela faça o trabalho chato de maneira 100% automática.
           </p>
           <a 
-            href="https://sour-spring-78c.notion.site/1ce921d51ee48032ba4de677ebc28cec?pvs=105"
+            href="https://oichatform.alfabot.icu"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-gradient-to-r from-accent-purple to-accent-blue text-white px-6 sm:px-8 py-3 sm:py-4 rounded-full text-base sm:text-lg font-semibold hover:opacity-90 transition-opacity shadow-lg shadow-accent-purple/20 mb-8 sm:mb-12"
